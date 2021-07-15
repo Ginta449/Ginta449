@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ginta
-- &#127891; CS Undergrad
+- &#127891; CS Undergrad Student
 - &#128526; Aspiring Software Engineer
 
 <!---
