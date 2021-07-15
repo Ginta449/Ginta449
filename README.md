@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Ginta449
+- 👋 Hi, I’m Ginta
+- &#127891; CS Undergrad
+- &#128526; Aspiring Software Engineer
 
 <!---
 Ginta449/Ginta449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
